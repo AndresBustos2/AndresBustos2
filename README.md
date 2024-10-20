@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">I'm Andres Bustos, An Mechatronics Engineer Student at the finals years of his career, after doing a lot of work with programming, thought that its time to update some of that data. In my free time do some repair of electronics, create some videogames, create programs to my daily life, build and clean desk computers to people around my circle (if necessary i know with portable computer too).</p>
 
 ###
 
